@@ -28,5 +28,5 @@ ORDER BY PG.FORMAPAG, T.VENCIMENTO, T.IDPARCELA, T.IDTITULO
 ### *** Exemplo GIF ***
 
 <p align="center">
- <img src="https://github.com/rodrigocananea/LeitorXML/blob/master/FINANCEIRO/TITULOS_SIMPLIFICADO/titulos_simplificado.gif" />
+ <img src="https://github.com/rodrigocananea/windel-report/blob/main/FINANCEIRO/TITULOS_SIMPLIFICADO/titulos_simplificado.gif" />
 </p>
