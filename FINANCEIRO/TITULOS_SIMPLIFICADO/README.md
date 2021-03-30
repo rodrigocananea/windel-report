@@ -22,10 +22,11 @@ AND T.DTPAGAMENTO BETWEEN :DE AND :ATE
 AND T.SITUACAO IN(:SITUACAO)
 GROUP BY 4,5,6,1,2,3,8,7
 ORDER BY PG.FORMAPAG, T.VENCIMENTO, T.IDPARCELA, T.IDTITULO
-```
+
+````
 
 ### *** Exemplo GIF ***
 
 <p align="center">
- <img src="https://github.com/rodrigocananea/LeitorXML/blob/master/leitorXML-example.gif" />
+ <img src="https://github.com/rodrigocananea/LeitorXML/blob/master/FINANCEIRO/TITULOS_SIMPLIFICADO/titulos_simplificado.gif" />
 </p>
