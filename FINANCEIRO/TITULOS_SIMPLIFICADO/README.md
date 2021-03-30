@@ -1,6 +1,8 @@
 # TITULOS SIMPLIFICADO
 Esse relatório exibe de forma simples os titulos de contas a receber e contas a pagar realizando um agrupamento dos pagamentos pela forma de pagamento utilizada no momento da baixa
 
+**Baixar** [titulos_simplificado.zip](https://github.com/rodrigocananea/windel-report/blob/main/FINANCEIRO/TITULOS_SIMPLIFICADO/titulos_simplificado.zip)
+
 #### Script SQL
 ````sql
 SELECT T.IDTITULO,
@@ -25,7 +27,7 @@ ORDER BY PG.FORMAPAG, T.VENCIMENTO, T.IDPARCELA, T.IDTITULO
 
 ````
 
-### *** Exemplo GIF ***
+### ***Exemplo GIF***
 
 <p align="center">
  <img src="https://github.com/rodrigocananea/windel-report/blob/main/FINANCEIRO/TITULOS_SIMPLIFICADO/titulos_simplificado.gif" />
