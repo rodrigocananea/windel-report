@@ -1,2 +1,0 @@
-# RELATÓRIOS FINANCEIRO
----
