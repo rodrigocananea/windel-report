@@ -9,8 +9,8 @@ Relatórios criados com a ferramente Windel Report, com uso do Firebird 3.0
 Após baixar o arquivo **zip** do relatório ele deve ser extraido na pasta de relatórios, exemplo:
 
 
-´´´´
-├── WINDEL
-├     └── Relatorios
-			- ***Arquivos extraidos***
-´´´´
+    .
+    ├── ...
+    ├── WINDEL                  # Pasta raiz com o wrpExec.exe
+    │   ├── Relatorios          # Pasta com os arquivos de relatórios
+    └── ...
